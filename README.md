@@ -1,4 +1,20 @@
-### Hi there 👋
+<!--
+**jossai1/jossai1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+
+### Hi there, I’m Jane👋
 
 <!--
 **jossai1/jossai1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +30,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I currently work as a Software Engineering Consultant.
+
+
+- 🌱 I’m currently learning:
+  - NextJS
+  - Headless CMS
+
+
+- 💬 Ask me about: Javascript, Angular, Java, Interaction Design, Accessibility, UX/UI, Music, Africa, Problem solving, Innovation, Data
+
+
+- 📫 How to reach me: www.janeossai.com
+
+
+- ⚡ Fun fact: I’m also a [DJ]([https://duckduckgo.com](https://www.mixcloud.com/deejane1/).
