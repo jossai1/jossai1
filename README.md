@@ -45,4 +45,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: www.janeossai.com
 
 
-- ⚡ Fun fact: I’m also a [DJ]([https://duckduckgo.com](https://www.mixcloud.com/deejane1/).
+- ⚡ Fun fact: I’m also a [DJ](https://www.mixcloud.com/deejane1/).
