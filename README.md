@@ -39,7 +39,7 @@ Here are some ideas to get you started:
   - Headless CMS
 
 
-- 💬 Ask me about: Javascript, Angular, Java, Interaction Design, Accessibility, UX/UI, Music, Africa, Problem solving, Innovation, Data
+- 💬 Ask me about: Javascript, Java, Interaction Design, Accessibility, UX/UI, Music, Africa, Problem solving, Innovation, Data
 
 
 - 📫 How to reach me: www.janeossai.com
